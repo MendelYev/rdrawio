@@ -1,0 +1,16 @@
+Package: rdrawio
+Type: Package
+Title: rdrawio
+Version: 0.1.0
+License: GPL-3
+Author: Jeremy Pasco
+Maintainer: Jeremy Pasco <jeremypasco37@gmail.com>
+Description: Generate draw.io documents based on a template and metadata filled by R.
+Encoding: UTF-8
+LazyData: true
+Imports:
+    stringr,
+    xml2,
+    rvest,
+    V8
+RoxygenNote: 6.1.1
