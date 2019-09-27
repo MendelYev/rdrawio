@@ -9,7 +9,7 @@ Install the package with :
 ~~~~
 # execute install.packages("devtools") if needed
 library("devtools")
-install_github("MendelYev/drawio")
+install_github("MendelYev/rdrawio")
 ~~~~
 
 Install desktop version of drawio : <https://about.draw.io/integrations/#integrations_offline>
