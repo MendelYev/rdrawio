@@ -25,7 +25,11 @@ Then, you need to list all your variables :
 - select all your chart elements (CTRL+A)
 - group them (CTRL+G)
 - edit the properties of the group (with the group still selected : CTRL+M)
-- list all of your variable names (without "%") as properties. You can leave their values empty since they will be filled by the R package
+- list all of your variable names (without "%") as properties. You can leave their values empty since they will be filled by the R package.
+- validate by clicking on [Apply]
+
+From now, your placeholders should have disappeared (replaced by empty values). If placeholders are still diplayed, make sure you'va activated the placeholder option for their elements.
+You can inspect placeholder names of a label by editing it (double-click on it).
 
 Save the .drawio file, this will be your template.
 
